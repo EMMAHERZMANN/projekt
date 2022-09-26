@@ -4,3 +4,4 @@
 Drive kaust: https://drive.google.com/drive/folders/19uvQNVF3wrBA-td8SVeTX9RlWmMWT4Mh?usp=sharing
 Trello: https://trello.com/invite/b/ePFnRAjs/d18c37f308da4783eaa585b4d61e8ac1/projekt
 
+pilt: https://github.com/EMMAHERZMANN/projekt/blob/main/paberprototyyp.jpg
